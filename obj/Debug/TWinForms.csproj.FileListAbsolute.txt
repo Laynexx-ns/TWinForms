@@ -1,0 +1,11 @@
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\bin\Debug\TWinForms.exe.config
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\bin\Debug\TWinForms.exe
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\bin\Debug\TWinForms.pdb
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.Form1.resources
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.csproj.GenerateResource.cache
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.exe
+C:\Users\Анатолий\Desktop\C#\TWinForms\TWinForms\obj\Debug\TWinForms.pdb
